@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\abirh\\AndroidStudioProjects\\Blockinger-master1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abirh\\AndroidStudioProjects\\Blockinger-master1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "1766",
+                        "endLines": "47",
+                        "endColumns": "12",
+                        "endOffsets": "1892"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "181"
+                    }
+                }
+            ]
+        }
+    ]
+}
